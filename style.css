@@ -56,6 +56,11 @@ a:hover {
     padding: 20px 50px;
 }
 
+.contact{
+    font-size: 14px;
+    padding: 20% ;
+}
+
 .bg-center,
 .bg-l-edge,
 .bg-r-edge,
@@ -1036,6 +1041,17 @@ h4 {
     .bloc {
         padding-left: 0;
         padding-right: 0;
+    }
+
+    img{
+        margin: auto;
+    }
+
+    .col-sm-4{
+        padding-left: 10%;
+    }
+    p{
+        font-size: inherit;
     }
 }
 
