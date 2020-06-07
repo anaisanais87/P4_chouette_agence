@@ -530,6 +530,10 @@ button {
     opacity: 1;
 }
 
+.col-sm-4 {
+    margin-top: 4%;
+}
+
 a[data-lightbox] {
     position: relative;
     display: block;
