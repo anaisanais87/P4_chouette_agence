@@ -1053,6 +1053,9 @@ h4 {
     p{
         font-size: inherit;
     }
+    a{
+        font-size: 15px;
+    }
 }
 
 @media (max-width: 767px) {
@@ -1067,5 +1070,8 @@ h4 {
     }
     .col-sm-4{
         padding-left: 10%;
+    }
+    a{
+        font-size: 15px;
     }
 }
