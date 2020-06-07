@@ -686,7 +686,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 12px;
 }
 
 .tight-width-whitespace {
@@ -1058,5 +1058,14 @@ h4 {
 @media (max-width: 767px) {
     .bloc-mob-center-text {
         text-align: center;
+    }
+    img{
+        margin: auto;
+    }
+    p{
+        font-size: inherit;
+    }
+    .col-sm-4{
+        padding-left: 10%;
     }
 }
