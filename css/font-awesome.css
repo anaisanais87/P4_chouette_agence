@@ -800,11 +800,13 @@
 }
 
 .fa-twitter:before {
+    color:#3E1A1A;
     content: "\f099"
 }
 
 .fa-facebook-f:before,
 .fa-facebook:before {
+    color:#3E1A1A;
     content: "\f09a"
 }
 
@@ -1568,18 +1570,22 @@
 }
 
 .fa-dropbox:before {
+    color:#3E1A1A;
     content: "\f16b"
 }
 
 .fa-stack-overflow:before {
+    color:#3E1A1A;
     content: "\f16c"
 }
 
 .fa-instagram:before {
+    color:#3E1A1A;
     content: "\f16d"
 }
 
 .fa-flickr:before {
+    color:#3E1A1A;
     content: "\f16e"
 }
 
@@ -1636,6 +1642,7 @@
 }
 
 .fa-dribbble:before {
+    color:#3E1A1A;
     content: "\f17d"
 }
 
@@ -2325,6 +2332,7 @@
 }
 
 .fa-facebook-official:before {
+    color:#3E1A1A;
     content: "\f230"
 }
 
