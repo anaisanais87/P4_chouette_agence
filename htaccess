@@ -1,0 +1,24 @@
+# Mise en cache des fichiers dans le navigateur
+
+<IfModule mod_expires.c>
+ExpiresActive On
+ExpiresDefault "access plus 1 month"
+
+ExpiresByType text/html "access plus 2628000 seconds"
+
+ExpiresByType application/fonts "access plus 2628000 seconds"
+
+ExpiresByType image/svg+xml "access plus 2628000 seconds"
+
+
+ExpiresByType img/jpg "access plus 2628000 seconds"
+ExpiresByType img/png "access plus 2628000 seconds"
+
+
+ExpiresByType text/css "access plus 2628000 seconds"
+ExpiresByType application/javascript "access plus 2628000 seconds"
+ExpiresByType application/bootstrap "access plus 2628000 seconds"
+
+
+
+</ifModule>
